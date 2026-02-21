@@ -4,7 +4,8 @@
     <test name="Default Test">
         <classes>
 <!--             <class name="elements.BasicElements"/> -->
-            <class name="elements.ActionsTest"/>
+           <!--  <class name="elements.ActionsTest"/>  -->
+            <class name ="ScreenShottest"/>
         </classes>
     </test>
 </suite>
