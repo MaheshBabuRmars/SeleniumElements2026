@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2026-02-21T21:22:59 IST" name="Surefire suite" finished-at="2026-02-21T21:23:04 IST" duration-ms="5221">
+    <groups>
+    </groups>
+    <test started-at="2026-02-21T21:22:59 IST" name="Surefire test" finished-at="2026-02-21T21:23:04 IST" duration-ms="5221">
+      <class name="elements.ActionsTest">
+        <test-method signature="actionstest()[pri:0, instance:elements.ActionsTest@b7c4869]" started-at="2026-02-21T21:22:59 IST" name="actionstest" finished-at="2026-02-21T21:23:04 IST" duration-ms="5143" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- actionstest -->
+      </class> <!-- elements.ActionsTest -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>
